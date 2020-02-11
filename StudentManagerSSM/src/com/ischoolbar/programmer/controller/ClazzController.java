@@ -101,7 +101,7 @@ public class ClazzController {
 			return ret;
 		}
 		ret.put("type", "success");
-		ret.put("msg", "班级修改成功！");
+		ret.put("msg", "班级修改成功了！");
 		return ret;
 	}
 	
